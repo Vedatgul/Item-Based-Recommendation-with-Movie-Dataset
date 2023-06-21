@@ -5,7 +5,7 @@ Item based recommendation is a form of collaborative filtering for recommender s
 ![image](https://user-images.githubusercontent.com/124357663/229941873-4f504853-41da-4f91-9ded-20c51a8a18a2.png)
 
 
-Table of Contents 
+Table of Contents  
 1. Examine the Dataset
 
 2. Data Preparation
